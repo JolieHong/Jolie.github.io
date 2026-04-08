@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "work": "作品集",
+    "about": "关于我",
+    "contact": "联系我"
+  },
+  "hero": {
+    "greeting": "你好，我是 Jolie",
+    "role": "用户体验设计师",
+    "tagline": "我设计直觉化、有意义、以人为本的体验。",
+    "cta_work": "查看作品",
+    "cta_contact": "联系我"
+  },
+  "work": {
+    "title": "精选作品",
+    "subtitle": "涵盖研究洞察与交互设计两大方向的项目案例。",
+    "categories": {
+      "all": "全部",
+      "research": "研究洞察",
+      "interaction": "交互设计"
+    },
+    "projects": [
+      {
+        "id": "project-1",
+        "category": "research",
+        "title": "年轻人心理健康行为研究",
+        "description": "一项定性研究，探索年轻人如何在数字环境中寻求和使用心理健康资源。",
+        "tags": ["用户访谈", "亲和图", "定性研究"],
+        "year": "2024"
+      },
+      {
+        "id": "project-2",
+        "category": "research",
+        "title": "电商结账流程痛点发现",
+        "description": "通过日记研究与情境调查，挖掘结账流程中隐藏的摩擦点与用户痛点。",
+        "tags": ["日记研究", "情境调查", "研究综合"],
+        "year": "2023"
+      },
+      {
+        "id": "project-3",
+        "category": "interaction",
+        "title": "个人理财 App 重新设计",
+        "description": "通过清晰的信息层级重新设计理财应用，降低认知负荷，提升日常使用粘性。",
+        "tags": ["线框图", "原型设计", "可用性测试"],
+        "year": "2024"
+      }
+    ],
+    "view_case": "查看案例详情"
+  },
+  "about": {
+    "title": "关于我",
+    "bio_1": "我是一名用户体验设计师，热衷于理解人的行为，并设计真正改善用户生活的解决方案。我的工作涵盖用户研究、信息架构与交互设计。",
+    "bio_2": "凭借定性研究与交互设计的双重背景，我擅长弥合用户需求与商业目标之间的鸿沟——将洞察转化为真实有共鸣的体验。",
+    "skills_title": "工具与技能",
+    "skills": ["Figma", "Miro", "用户访谈", "可用性测试", "线框图", "原型设计", "信息架构", "设计系统"],
+    "resume": "下载简历"
+  },
+  "contact": {
+    "title": "保持联系",
+    "subtitle": "有项目想法，或者只是想打个招呼？欢迎随时联系我。",
+    "email_label": "邮箱",
+    "linkedin_label": "LinkedIn",
+    "form": {
+      "name": "你的姓名",
+      "email": "你的邮箱",
+      "message": "留言内容",
+      "send": "发送消息"
+    }
+  },
+  "footer": {
+    "rights": "© 2024 Jolie Hong. 保留所有权利。"
+  }
+}

@@ -1,0 +1,90 @@
+.case-study {
+  padding-top: var(--nav-height);
+  min-height: 100vh;
+}
+
+.case-hero {
+  padding: 80px 0 72px;
+}
+
+.case-hero-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 760px;
+}
+
+.back-link {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-secondary);
+  transition: color var(--transition);
+  margin-bottom: 8px;
+}
+
+.back-link:hover {
+  color: var(--color-primary);
+}
+
+.case-icon {
+  font-size: 3.5rem;
+}
+
+.case-category {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.case-title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  color: var(--color-primary);
+}
+
+.case-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.case-body {
+  padding: 72px 0 120px;
+  max-width: 760px;
+}
+
+.case-section {
+  margin-bottom: 48px;
+}
+
+.case-section h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.01em;
+}
+
+.case-section p {
+  font-size: 1rem;
+  color: var(--color-secondary);
+  line-height: 1.8;
+}
+
+.case-placeholder {
+  background: var(--color-tag-bg);
+  border: 1.5px dashed var(--color-border);
+  border-radius: var(--radius);
+  padding: 48px;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
+.case-not-found {
+  padding-top: calc(var(--nav-height) + 80px);
+  min-height: 100vh;
+}

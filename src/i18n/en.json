@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Jolie",
+    "role": "UX Designer",
+    "tagline": "I design experiences that are intuitive, meaningful, and human-centered.",
+    "cta_work": "View My Work",
+    "cta_contact": "Get in Touch"
+  },
+  "work": {
+    "title": "Selected Work",
+    "subtitle": "A collection of projects across research and interaction design.",
+    "categories": {
+      "all": "All",
+      "research": "Research & Insights",
+      "interaction": "Interaction Design"
+    },
+    "projects": [
+      {
+        "id": "project-1",
+        "category": "research",
+        "title": "Understanding Mental Health Behaviors",
+        "description": "A qualitative research study exploring how young adults seek and engage with mental health resources in digital environments.",
+        "tags": ["User Research", "Interview", "Affinity Mapping"],
+        "year": "2024"
+      },
+      {
+        "id": "project-2",
+        "category": "research",
+        "title": "E-commerce Pain Points Discovery",
+        "description": "Uncovering hidden friction points in the checkout experience through diary studies and contextual inquiry.",
+        "tags": ["Diary Study", "Contextual Inquiry", "Synthesis"],
+        "year": "2023"
+      },
+      {
+        "id": "project-3",
+        "category": "interaction",
+        "title": "Finance App Redesign",
+        "description": "Redesigning a personal finance app to reduce cognitive load and improve daily engagement through clear information hierarchy.",
+        "tags": ["Wireframing", "Prototyping", "Usability Testing"],
+        "year": "2024"
+      }
+    ],
+    "view_case": "View Case Study"
+  },
+  "about": {
+    "title": "About Me",
+    "bio_1": "I'm a UX Designer passionate about understanding people and designing solutions that genuinely improve their lives. My work spans user research, information architecture, and interaction design.",
+    "bio_2": "With a background in both qualitative research and interaction design, I bridge the gap between user needs and business goals — turning insights into experiences that resonate.",
+    "skills_title": "Tools & Skills",
+    "skills": ["Figma", "Miro", "User Interviews", "Usability Testing", "Wireframing", "Prototyping", "Information Architecture", "Design Systems"],
+    "resume": "Download Resume"
+  },
+  "contact": {
+    "title": "Let's Talk",
+    "subtitle": "Have a project in mind or just want to say hello? I'd love to hear from you.",
+    "email_label": "Email",
+    "linkedin_label": "LinkedIn",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "rights": "© 2024 Jolie Hong. All rights reserved."
+  }
+}
